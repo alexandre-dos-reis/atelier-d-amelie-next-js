@@ -9,3 +9,20 @@ A NextJs portage for the illumination artworks of **L'Atelier d'Amélie**
 - [bycamilaconti.com](https://bycamilaconti.com/)
 - [kathiegeorgeart.com](https://kathiegeorgeart.com/)
 - [maryshepherdartist.co.uk](https://maryshepherdartist.co.uk)
+
+## Legacy
+
+- The main title
+- Lettrine
+- Gallery *Brique* layout
+
+## Libs
+
+- Pnpm
+- NextJS >= 12
+- Typescript
+- EsLint + Prettier + Husky
+- Directus 9 with Docker
+- Styled-components
+- React-redux for state management
+- Framer-motion
